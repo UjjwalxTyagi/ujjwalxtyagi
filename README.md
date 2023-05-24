@@ -1,3 +1,5 @@
+![logo](https://github.com/UjjwalxTyagi/ujjwalxtyagi/blob/main/Github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Ujjwal Tyagi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
